@@ -1,0 +1,4 @@
+100722	18:13:15	d9b0abde-88a0-4915-a5bc-79ba166dfbc9	GET	undefined	/
+100722	18:13:15	52dff08b-d090-42d5-90c3-069b1f7bb763	GET	undefined	/styles.css
+100722	18:13:15	658e915e-7c5a-47de-a8d5-0201eb0846d1	GET	undefined	/favicon.ico
+100722	18:13:28	805e500c-f4a6-4556-bfd7-af20ce8f6992	GET	undefined	/signals

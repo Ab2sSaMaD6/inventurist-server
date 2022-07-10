@@ -1,0 +1,88 @@
+[
+    {
+        "series": [
+            {
+                "id": "1",
+                "name": "Clean Energy, Hydrogen",
+                "data": [
+                    { "x": "polaris.com", "y": 10 },
+                    { "x": "brb.com", "y": 10 },
+                    { "x": "tesla.com", "y": 0 },
+                    { "x": "google.com", "y": 10 }
+                ]
+            },
+            {
+                "id": "1",
+                "name": "Hydrogen",
+                "data": [
+                    { "x": "polaris.com", "y": 10 },
+                    { "x": "brb.com", "y": 0 },
+                    { "x": "tesla.com", "y": 10 },
+                    { "x": "google.com", "y": 5 }
+                ]
+            },
+            {
+                "id": "1",
+                "name": "Clean Energy",
+                "data": [
+                    { "x": "polaris.com", "y": 10 },
+                    { "x": "brb.com", "y": 10 },
+                    { "x": "tesla.com", "y": 10 },
+                    { "x": "google.com", "y": 10 }
+                ]
+            }
+        ]
+    },
+    {
+        "signals": [
+            {
+                "id": "1",
+                "companies": "google.com",
+                "context": "clean energy",
+                "question": "hydrogen",
+                "resultUrl": "www.google.com",
+                "title": "clean energy cost clean energy cost clean energy cost clean energy cost"
+            },
+            {
+                "id": "2",
+                "companies": "polaris.com",
+                "context": "clean energy",
+                "question": "hydrogen",
+                "resultUrl": "www.polaris.com",
+                "title": "clean energy cost"
+            },
+            {
+                "id": "3",
+                "companies": "polaris.com",
+                "context": "clean energy",
+                "question": "hydrogen",
+                "resultUrl": "www.polaris.com",
+                "title": "clean energy cost"
+            },
+            {
+                "id": "4",
+                "companies": "polaris.com",
+                "context": "clean energy",
+                "question": "hydrogen",
+                "resultUrl": "www.polaris.com",
+                "title": "clean energy cost"
+            },
+            {
+                "id": "5",
+                "companies": "polaris.com",
+                "context": "clean energy",
+                "question": "hydrogen",
+                "resultUrl": "www.polaris.com",
+                "title": "clean energy cost"
+            },
+            {
+                "id": "6",
+                "companies": "polaris.com",
+                "context": "clean energy",
+                "question": "hydrogen",
+                "resultUrl": "www.polaris.com",
+                "title": "clean energy cost"
+            }
+        ]
+    }
+]
